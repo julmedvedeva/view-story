@@ -1,23 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div className="Group">
         <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+          href="https://docs.google.com/document/d/1JwJSdh0hHmNqkkzdq3hUodH7hIO0Wu1GxkAviwa0yHo/edit?usp=sharing"
+          target="_blank">
+          <div className="Item">История первая</div>
         </a>
-      </header>
+        <a
+          href="https://docs.google.com/document/d/1JwJSdh0hHmNqkkzdq3hUodH7hIO0Wu1GxkAviwa0yHo/edit?usp=sharing"
+          target="_blank">
+          <div className="Item">История вторая</div>
+        </a>
+      </div>
+      <a
+        href="https://docs.google.com/document/d/1JwJSdh0hHmNqkkzdq3hUodH7hIO0Wu1GxkAviwa0yHo/edit?usp=sharing"
+        target="_blank">
+        <div className="Item Large">Не история</div>
+      </a>
     </div>
   );
 }
