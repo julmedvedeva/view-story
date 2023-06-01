@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/view-story/static/css/main.68db0f96.css",
-    "main.js": "/view-story/static/js/main.4524ba9b.js",
+    "main.js": "/view-story/static/js/main.857d8219.js",
     "static/media/Pacifico-Regular.ttf": "/view-story/static/media/Pacifico-Regular.7bdf9e5e21239393db89.ttf",
     "index.html": "/view-story/index.html",
     "main.68db0f96.css.map": "/view-story/static/css/main.68db0f96.css.map",
-    "main.4524ba9b.js.map": "/view-story/static/js/main.4524ba9b.js.map"
+    "main.857d8219.js.map": "/view-story/static/js/main.857d8219.js.map"
   },
   "entrypoints": [
     "static/css/main.68db0f96.css",
-    "static/js/main.4524ba9b.js"
+    "static/js/main.857d8219.js"
   ]
 }
